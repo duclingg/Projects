@@ -1,6 +1,6 @@
 # Projects
 
-An overview of what I have created, from professional experience to personal development projects. This list is not cummalative.
+An overview of what I have created, from professional experience to personal development projects. This list is not cumulative.
 
 ## Professional Work
 ### [Ism](https://www.ism-app.com)
