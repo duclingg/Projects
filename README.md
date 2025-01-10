@@ -1,8 +1,8 @@
 ### Hey there! 😄  
 
-I'm currently a student pursing my Bachelor's of Science in Computer Science and a Mathematics minor.  
+I'm currently a student pursing my Bachelor's of Science in Computer Science with a Mathematics minor, and a part time Junior iOS Engineer.  
 
-I'm interested in the intractices of software and the applications of mathematics in finance,  
+I'm interested in the application of mathematics and software in finance,  
 but I also have a keen interest in mobile development! 💻  
 
 Check out some of my work!  
