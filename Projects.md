@@ -16,8 +16,8 @@ I have implemented brand new features, as well as continuous debugging and bug f
 https://github.com/user-attachments/assets/987138ba-c007-4294-9af9-2fae67846988
 
 ## Personal Work
-### AlgoViz (WIP)
-*Work in progress*, UI/UX and features subject to change.  
+### AlgoViz (SOON)
+*Release soon! Expect a release by EOW Mar. 3, 2025!  
 
 This app is intended to help students learn one of the most important topics in computer sciences, data structures and algorithms.  
 
