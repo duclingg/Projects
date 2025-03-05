@@ -16,8 +16,8 @@ I have implemented brand new features, as well as continuous debugging and bug f
 https://github.com/user-attachments/assets/987138ba-c007-4294-9af9-2fae67846988
 
 ## Personal Work
-### AlgoViz (SOON)
-*Release soon! Expect a release by EOW Mar. 3, 2025!  
+### [AlgoViz](https://apps.apple.com/us/app/algoviz-visualize-dsas/id6742699489)
+*v1.0.2 Released!*
 
 This app is intended to help students learn one of the most important topics in computer sciences, data structures and algorithms.  
 
