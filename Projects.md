@@ -16,8 +16,8 @@ I have implemented brand new features, as well as continuous debugging and bug f
 https://github.com/user-attachments/assets/987138ba-c007-4294-9af9-2fae67846988
 
 ## Personal Work
-### [AlgoViz](https://apps.apple.com/us/app/algoviz-visualize-dsas/id6742699489)
-*v1.0.2 Released!*
+### AlgoViz
+*v1.0.2 Released!* [App Store](https://apps.apple.com/us/app/algoviz-visualize-dsas/id6742699489)
 
 This app is intended to help students learn one of the most important topics in computer sciences, data structures and algorithms.  
 
