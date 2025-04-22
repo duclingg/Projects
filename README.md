@@ -7,5 +7,3 @@ but I also have a keen interest in mobile development! 💻
 
 Check out some of my work!  
 [Projects](Projects.md)  
-
-Just released `AlgoViz`! Check it out on the [App Store](https://apps.apple.com/us/app/algoviz-visualize-dsas/id6742699489)
