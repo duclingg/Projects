@@ -1,18 +1,24 @@
 # Projects
 
-An overview of what I have created, from professional experience to personal projects outside of school. This list is *not* cumulative.
+My portfolio of public-facing projects.
 
 ## Professional Work
 ### [Ism](https://www.ism-app.com)  
-#### iOS Engineering Co-Op
-**Currently ranked top #100 in the photo/video category in the [app store](https://apps.apple.com/us/app/digital-camera-filter-ism/id1580668065), with over 75,000 monthly active users.**  
+#### iOS Engineering Co-Op/Internship  
+<img width="256" height="256" alt="appstore" src="https://github.com/user-attachments/assets/b8f0d369-af4d-4a8f-9de0-b33d4b684d3a" />  
+
+**Ranked top #25 in the photo/video category in the [app store](https://apps.apple.com/us/app/digital-camera-filter-ism/id1580668065), with over 75,000 monthly active users.**  
 
 A photography and videography editing app, built in Swift and UIKit.  
 
 ## Personal Work
-### Melodi [WIP]
-A music personalization app that generates a collage-style canvas. My twist on visualizing a someone's music taste in my creative style.  
-Built in Next.js/TypeScript and Python. OpenAI API integration for creating user features.  
+### Melodi [WIP] 
+<img width="357" height="102" alt="melodi-logo" src="https://github.com/user-attachments/assets/8e29b644-5c55-49ed-bf9b-73c5a5af56d9" />  
+
+[Preview Link](https://urmelodi.vercel.app)  
+A music personalization app that generates a collage-style canvas. My creative twist on visualizing a someone's music taste.  
+
+Built in Next.js/TypeScript and Python. OpenAI API integration for creating user features. Hosted on Vercel and Render. 
 
 ### AlgoViz
 [App Store](https://apps.apple.com/us/app/algoviz-visualize-dsas/id6742699489)
