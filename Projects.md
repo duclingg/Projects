@@ -7,7 +7,7 @@ My portfolio of public-facing projects.
 #### iOS Engineering Co-Op/Internship  
 <img width="256" height="256" alt="appstore" src="https://github.com/user-attachments/assets/b8f0d369-af4d-4a8f-9de0-b33d4b684d3a" />  
 
-**Ranked top #25 in the photo/video category in the [app store](https://apps.apple.com/us/app/digital-camera-filter-ism/id1580668065), with over 75,000 monthly active users.**  
+**Helped scale to top #10 rank in the photo/video category in the [app store](https://apps.apple.com/us/app/digital-camera-filter-ism/id1580668065), with over 200,000 monthly active users, during my internship.**  
 
 A photography and videography editing app, built in Swift and UIKit.  
 
