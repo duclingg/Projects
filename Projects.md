@@ -19,6 +19,11 @@ Created a module for explainability methods, incorporating into the proposed sta
 A photography and videography editing app, built in Swift and UIKit.  
 
 ## Personal Work
+### Airline Routes and Airports Dataset
+An unused dataset that was cleaned and transformed by me.
+
+[https://www.kaggle.com/datasets/ducling/airline-routes-and-airports?select=alliances.csv](https://www.kaggle.com/datasets/ducling/airline-routes-and-airports)
+
 ### AlgoViz
 [App Store](https://apps.apple.com/us/app/algoviz-visualize-dsas/id6742699489)
 
